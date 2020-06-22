@@ -1,7 +1,7 @@
 #!name=Ad rewrite rules, By NobyDa
 #!desc=This module integrate lhie1 and ConnersHua, and some self use rewrite rules
 
-[URL Rewrite]
+#[URL Rewrite]
 
 # Update time: 2020.6.21
 # This rewrite rule does not decrypt Youtube ads. if you need to, please add the host name：*.googlevideo.com
